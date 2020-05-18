@@ -10,4 +10,4 @@ int main(void)
     printf("1&1=%d 1|1=%d 1^1=%d\n", 1&1, 1|1, 1^1);
     printf("~i=%d\n", ~i);
     return 0;
-    }
+}
